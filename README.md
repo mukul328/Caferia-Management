@@ -1,1 +1,2 @@
 # Caferia-Management
+This project is a simple console-based cafeteria ordering system implemented in C++. It features two main classes: Menu and Cafe. The Menu class holds details for each menu item, such as its name, price, and item number. The Cafe class stores a list of menu items and allows customers to place orders by selecting an item number and quantity. The system calculates the total bill based on the chosen item and quantity, simulating a basic ordering experience for a cafe.
